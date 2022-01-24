@@ -4,33 +4,20 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="Sept 2016" width="300px" align="right" %}
+{% include image.html url="images/profile_1.jpg" caption="Sept 2020" width="300px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
+I work at [McGill University] teaching privileged Gen X students.
+I teach French language, culture and literature, and incorporate the latest pedgagogy into my classroom.
+I completed my MSc under the guidance of [Michael Zuniga] at [University of Quebec a Montreal] in the beautiful city of
+Montreal. I also obtained a Masters degree in Anglophone literature at [Universite Paris VII]. In an
+earlier life, I used to be an undergrad there, and have spent significant time at [Middlebury College] in Vermont, USA.
 
-Email: [gchauras@fb.com] (Facebook related communication) <br />
-Email: [gchauras@csail.mit.edu] (others)
+Email: [juliesenat.c@mcgill.edu] (University related communication) <br />
+Email: [juliesenat.c@gmail.com] (others)
 
 You can find some professional details about me on [Google Scholar].
 
-My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
-includes some Gods (courtesy [Peter Vangorp]).
 
-[Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
-[INRIA]: https://team.inria.fr/graphdeco/
-[Indian Institute of Technology Delhi]: http://www.cse.iitd.ac.in
-[George Drettakis]: http://www-sop.inria.fr/members/George.Drettakis
-[ENSIMAG]: http://ensimag.grenoble-inp.fr
-[Fredo Durand]: http://people.csail.mit.edu/fredo/
-[Sylvain Paris]: http://people.csail.mit.edu/sparis/
-[MIT]: http://www.csail.mit.edu/
-[Oculus]: https://www.oculus.com/
 [Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gchauras@csail.mit.edu]: mailto:gchauras@csail.mit.edu
-[gchauras@fb.com]: mailto:gchauras@fb.com
-[Peter Vangorp]: http://users.telenet.be/pvangorp/
+[juliesenat.c@mcgill.edu]: mailto:juliesenat.c@mcgill.edu
+[juliesenat.c@gmail.com]: mailto:juliesenat.c@gmail.com
