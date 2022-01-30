@@ -1,5 +1,5 @@
-title: Julie Senat
-description: Julie Senat's webpage
+title: Julie Sénat
+description: Julie Sénat's webpage
 sourcecode: "https://github.com/rthacku1/rthacku1.github.io"
 
 permalink: blog/:year/:month/:day/:title
@@ -11,7 +11,7 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Julie Senat
+    name: Julie Sénat
     facebook:
     scholar:
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+title: Recherche
+permalink: /recherche/
+---
 pubs:
 
     - title:   "Editable parametric dense foliage from 3D capture"

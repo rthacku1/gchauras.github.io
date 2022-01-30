@@ -15,8 +15,6 @@ earlier life, I used to be an undergrad there, and have spent significant time a
 Email: [juliesenat.c@mcgill.edu] (University related communication) <br />
 Email: [juliesenat.c@gmail.com] (others)
 
-You can find some professional details about me on [Google Scholar].
-
 
 [Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
 [juliesenat.c@mcgill.edu]: mailto:juliesenat.c@mcgill.edu
