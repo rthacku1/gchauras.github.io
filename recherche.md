@@ -265,7 +265,7 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
-Aller à [Conférences](#conférences), [Thèses](#thèses)
+Aller à [Conférences](#conférences), [Mémoires](#mémoires)
 
 ---
 
@@ -279,7 +279,7 @@ Aller à [Conférences](#conférences), [Thèses](#thèses)
 
 -----
 
-## Thèses
+## Mémoires
 
 **Charlotte Perkins Gilman et Olive Schreiner : dynamique des genres dans le féminisme littéraire et militant du tournant du vingtième siècle** <br />
 [Université de Paris](https://u-paris.fr/), 2018 <br />
