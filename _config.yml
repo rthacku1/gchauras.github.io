@@ -1,6 +1,6 @@
 title: Julie Sénat
-description: Julie Sénat's webpage
-sourcecode: "https://github.com/rthacku1/rthacku1.github.io"
+description: le site web de Julie Sénat
+
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]

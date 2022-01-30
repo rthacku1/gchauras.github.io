@@ -1,21 +1,19 @@
 ---
 layout: page
-title: About
+title: Bienvenue!
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="Sept 2020" width="300px" align="right" %}
+{% include image.html url="images/profile_1.jpg" caption="septembre 2020" width="275px" align="right" %}
 
-I work at [McGill University] teaching Gen X students.
-I teach French language, culture and literature, and incorporate the latest pedgagogy into my classroom.
-I completed my MSc under the guidance of [Michael Zuniga] at [University of Quebec a Montreal] in the beautiful city of
-Montreal. I also obtained a Masters degree in Anglophone literature at [Universite Paris VII]. In an
-earlier life, I used to be an undergrad there, and have spent significant time at [Middlebury College] in Vermont, USA.
+Je m’appelle Julie Sénat et je suis enseignante de français langue seconde à Montréal. Dans le cadre de ma maitrise en littératures des pays anglophones, j’ai étudié et enseigné à [l'Université de Michigan] et à [Middlebury College]. J’y ai découvert une passion de l’enseignement du français. Ces expériences m’ont poussée à commencer une [maitrise en didactique des langues] à l’Université du Québec à Montréal. J’ai mené une étude sur l’investissement subjectif à la lecture de textes simplifiés et non simplifiés en langue seconde, sous la direction de [Marie-Christine Beaudry] et [Michael Zuniga]. Ici, vous trouverez toutes les informations nécessaires pour apprendre à me connaitre en tant qu’enseignante et que chercheure.
 
-Email: [juliesenat.c@mcgill.edu] (University related communication) <br />
-Email: [juliesenat.c@gmail.com] (others)
+Email: [julie.senat@mcgill.ca] <br />
 
 
-[Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[juliesenat.c@mcgill.edu]: mailto:juliesenat.c@mcgill.edu
-[juliesenat.c@gmail.com]: mailto:juliesenat.c@gmail.com
+[julie.senat@mcgill.ca]: mailto:julie.senat@mcgill.ca
+[maitrise en didactique des langues]: https://etudier.uqam.ca/programme?code=3123
+[Marie-Christine Beaudry]: https://professeurs.uqam.ca/professeur/beaudry.marie-christine/
+[Michael Zuniga]: https://michaelzuniga.com/
+[Middlebury College]: https://www.middlebury.edu/language-schools/languages/french/faculty-staff
+[l'Université de Michigan]: https://lsa.umich.edu/rll/

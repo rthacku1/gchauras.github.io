@@ -1,5 +1,292 @@
-name: Julie Sénat
-affiliation: McGill University
-address: Montreal, Quebec
-email: juliesenat.c@gmail.com
-web: http://juliesenat.com
+name: Gaurav Chaurasia
+affiliation: Oculus
+address: Zurich, Switzerland
+email: gchauras@csail.mit.edu
+web: http://people.csail.mit.edu/gchauras/
+
+research_interests:
+    - Computer vision and machine learning for VR and related applications.
+    - 3D reconstruction and fitting to RGB-D data.
+    - Neural networks for 2D/3D synthesis.
+    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
+
+education:
+    - date:         2010-2014
+      title:        Ph.D in Computer Science
+      affiliation:  INRIA
+      location:     Sophia Antipolis, France
+      mentor:       Dr. George Drettakis
+      thesis:       Algorithms and perceptual analysis for interactive free viewpoint image-based navigation
+    - date:         2009-2010
+      title:        M.Sc in Computer Science
+      affiliation:  ENSIMAG
+      location:     Grenoble, France
+      mentor:
+      thesis:
+    - date:         2005-2009
+      title:        B.Tech in Computer Science
+      affiliation:  Indian Institute of Technology Delhi
+      location:     New Delhi, India
+      mentor:       Prof. Subodh Kumar
+      thesis:       Real time traffic simulation
+
+positions:
+    - date:         2018-till date
+      title:        Computer Vision
+      affiliation:  Oculus
+      location:     Zurich, Switzerland
+      mentor:
+      notes:
+    - date:         2015-2017
+      title:        Associate Research Scientist (computer vision)
+      affiliation:  Disney Research Zurich
+      location:     Zurich, Switzerland
+      mentor:
+      notes:
+    - date:         2014-2015
+      title:        Postdoctoral Associate
+      affiliation:  Massachusetts Institute of Technology
+      location:     Cambridge MA, USA
+      mentor:       Prof. Fr{\'e}do Durand
+      notes:
+
+visiting_positions:
+    - date:         Aug 2013
+      title:        Visiting student
+      affiliation:  Massachusetts Institute of Technology
+      location:     Cambridge MA, USA
+      mentor:       Prof. Fr{\'e}do Durand
+      notes:        Parallel execution of non-parallel recursive filters.
+    - date:         Aug 2012
+      title:        Visiting student
+      affiliation:  University of California Berkeley
+      location:     Berkeley CA, USA
+      mentor:       Prof. Ravi Ramamoorthi
+      notes:        Procedural noise functions for synthesizing non-Gaussian textures.
+    - date:         Feb-Jun 2010
+      title:        Research intern
+      affiliation:  INRIA
+      location:     Sophia Antipolis, France
+      mentor:       Dr. George Drettakis
+      notes:        Image-based rendering for urban scenes.
+    - date:         Summer 2008
+      title:        Intern (Embedded graphics group)
+      affiliation:  Nvidia
+      location:     Bangalore, India
+      mentor:
+      notes:        OpenGL-ES extensions for GPU driver for embedded systems, OpenGL-ES 2.0 conformance test suite bugs.
+    - date:         Summer 2007
+      title:        Research intern
+      affiliation:  Dublin City University
+      location:     Dublin, Ireland
+      mentor:       Dr. Derek Molloy
+      notes:        Memory exercises as 3D games and user studies to test effect of 3D user interfaces on human recall.
+
+teaching:
+    - date:   Autumn 2016
+      title:  Advanced Topics in Computer Graphics and Vision Seminar
+      url:    https://graphics.ethz.ch/teaching/seminarAS16/home.php
+      number: 252-5701-00L
+      school: ETH Zurich
+    - date:   Spring 2016
+      title:  Advanced Topics in Computer Graphics Seminar
+      url:    https://graphics.ethz.ch/teaching/seminarSS16/home.php
+      number: 252-5704-00L
+      school: ETH Zurich
+    - date:   Spring 2015
+      title:  Digital and Computational Photography
+      url:    https://stellar.mit.edu/S/course/6/sp15/6.815/index.html
+      number: 6.815/6.865
+      school: MIT
+
+supervised_theses:
+    - date:   Spring 2017
+      author: Andrin Jenal
+      title:  RNN-based generative model for learning and synthesis of tree skeletons
+      school: Master's thesis, ETH Zurich
+
+technical_skills:
+    - C++
+    - Matlab
+    - Python
+    - OpenGL
+    - GLSL
+    - CUDA
+    - OpenCV
+    - LaTeX
+    - Mercurial
+    - Git
+    - SVN
+    - Bash
+    - Vim
+    - Java
+    - Visual Studio
+
+awards:
+    - date:   Aug 2010
+      detail: PhD fellowship (\textit{Allocation de Recherche}) by the French ministry for PhD studies.
+    - date:   Aug 2009
+      detail: Scholarship of Excellence (\textit{Bourse d'Excellence}) by ENSIMAG for Master's studies.
+    - date:   May 2007
+      detail: Scholarship for 12 week research internship `ODCSSS-07' in Dublin by Science Foundation of Ireland.
+    - date:   Jun 2005
+      detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
+
+
+
+talks:
+    - title:  "Portrait de l’investissement subjectif de deux apprenantes de français langue seconde à la lecture d’un roman simplifié"
+      venue: ACFAS - 89ème Congrès
+      date:   2022
+    - title:  "La lecture de romans en langue seconde : un défi de taille"
+      venue:   Conférences de l’École de français Middlebury College
+      date:   2021
+    - title:  "Textes authentiques, textes simplifiés : portrait de l’investissement subjectif des apprenant.e.s de L2/LE"
+      venue:  Midi de la recherche dans le cadre du programme de 2e cycle en didactique des langues à l’Université du Québec à Montréal
+      date:   2021
+    - title:  "L’investissement subjectif en langue étrangère : l’expérience d’une apprenante à la lecture d’un texte simplifié et d’un texte non-simplifié"
+      venue: Les journées de linguistique de l’Université Laval
+      date:   2021
+    - title:  "Portrait de l’investissement subjectif d’une apprenante de français langue étrangère à la lecture d’un texte simplifié et d’un texte non-simplifié"
+      venue:  Concours de vulgarisation de la recherche en éducation - UQAM
+      date:   2021
+    - title:  "Textes authentiques, textes simplifiés : portrait de l’investissement subjectif des apprenant.es de langue seconde ou étrangère"
+      venue:  Colloque Éducatif présent ! 2020
+      date:   2020
+    - title:  "Will you accuse a lady to her face of smelling bad? Women and the trauma of the Civil War in William Faulkner’s short stories"
+      venue:  Middlebury College 2016 Spring Student Symposium
+      date:   2016
+      internal: 1
+
+reviews:
+    grants:
+        - title: National Science Foundation (USA)
+          years:
+            - year: 2017
+          url: https://www.nsf.gov
+        - title: Agence Nationale de la Recherche (France)
+          years:
+            - year: 2018
+          url: http://www.agence-nationale-recherche.fr
+    journal:
+        - title: ACM Transactions on Graphics
+          url:   http://tog.acm.org
+          years:
+            - year: 2016
+            - year: 2017
+            - year: 2018
+        - title: ACM Transactions on Applied Perception
+          url:   http://tap.acm.org
+          years:
+            - year: 2014
+        - title: IEEE Transations on Image Processing
+          url:   https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83
+          years:
+            - year: 2018
+        - title: IEEE Transactions on Visualization and Computer Graphics
+          url:   http://www.computer.org/web/tvcg
+          years:
+            - year: 2015
+            - year: 2016
+        - title: Computer Graphics Forum
+          url:   http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659
+          years:
+            - year: 2015
+        - title: The Visual Computer
+          url:   http://link.springer.com/journal/371
+          years:
+            - year: 2016
+            - year: 2017
+        - title: Computers and Graphics
+          url:   http://www.journals.elsevier.com/computers-and-graphics/
+          years:
+            - year: 2015
+            - year: 2017
+        - title: IEEE Signal Processing Letters
+          url:   http://www.signalprocessingsociety.org/publications/periodicals/letters/
+          years:
+            - year: 2015
+        - title: Journal of Signal Image and Video Processing
+          url:   http://www.springer.com/engineering/signals/journal/11760
+          years:
+            - year: 2013
+
+    conference:
+        - title: CVPR
+          years:
+            - year: 2018
+              url: http://cvpr2018.thecvf.com/
+        - title: ACCV
+          years:
+            - year: 2018
+              url: http://accv2018.net/
+        - title: SIGGRAPH
+          years:
+            - year: 2012
+              url:  http://s2012.siggraph.org/
+            - year: 2016
+              url:  http://s2016.siggraph.org/
+        - title: SIGGRAPH Asia
+          years:
+            - year: 2013
+              url:  http://sa2013.siggraph.org/en/
+            - year: 2016
+              url:  http://sa2016.siggraph.org/en/
+            - year: 2017
+              url:  http://sa2017.siggraph.org
+            - year: 2018
+              url:  http://sa2018.siggraph.org
+            - year: 2019
+              url:  http://sa2019.siggraph.org
+        - title: Eurographics
+          years:
+            - year: 2012
+              url:  http://www.eurographics2012.it/
+            - year: 2016
+              url:  http://eurographics2016.pt/
+        - title: Pacific Graphics
+          years:
+            - year: 2014
+              url:  http://graphics.ewha.ac.kr/PG14/
+            - year: 2015
+              url:  http://cg.cs.tsinghua.edu.cn/pg2015/
+            - year: 2016
+              url:  https://indico.oist.jp/indico/event/0/
+        - title: High Performance Graphics
+          years:
+            - year: 2016
+              url:  http://www.highperformancegraphics.org/2016/
+        - title: Virtual Reality Science and Technology (VRST)
+          years:
+            - year: 2016
+              url:  http://www.vrst2016.lrz.de/
+
+references:
+    - name:  Dr. George Drettakis
+      title: Senior Researcher, INRIA Sophia Antipolis, France
+      www:   http://www-sop.inria.fr/members/George.Drettakis/
+      mail:  george.drettakis@inria.fr
+    - name:  Prof. Fr{\'e}do Durand
+      title: Professor, Massachusetts Institute of Technology, Cambridge MA, USA
+      www:   http://people.csail.mit.edu/fredo/
+      mail:  fredo@mit.edu
+    - name:  Dr. Sylvain Paris
+      title: Senior Researcher, Adobe Research, Cambridge MA, USA
+      www:   http://people.csail.mit.edu/sparis/
+      mail:  sparis@adobe.com
+    - name:  Ryan Brown
+      title: Site Lead, Oculus Zurich
+      www:   https://www.linkedin.com/in/ryanhbrown
+      mail:
+    - name:  Dr. Alexander Sorkine-Hornung
+      title: Technical Lead, Oculus Zurich
+      www:   http://www.ahornung.net/
+      mail:
+    - name:  Prof. Dr. Markus Gross
+      title: Professor, ETH Zurich and Vice President, Disney Research, Zurich, Switzerland
+      www:   https://www.disneyresearch.com/people/markus-gross/
+      mail:  markus.gross@disneyresearch.com
+    - name:  Dr. Paul Beardsley
+      title: Principal Research Scientist, Disney Research, Zurich, Switzerland
+      www:   https://www.disneyresearch.com/people/paul-beardsley/
+      mail:  pab@disneyresearch.com

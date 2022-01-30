@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Recherche
 permalink: /recherche/
----
+title: Recherche
 pubs:
 
     - title:   "Editable parametric dense foliage from 3D capture"
@@ -266,66 +265,26 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
-Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Talks](#invited-talks), [Media](#media-coverage), [Reviewing](#professional-service)
+Aller à [Conférences](#conférences), [Thèses](#thèses)
 
 ---
 
-## Publications (peer reviewed unless stated otherwise)
-
-{% assign thumbnail="right" %}
-
-{% for pub in site.data.cv.publications %}
-<!-- {% if pub.image %}
-{% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
-{% endif %} -->
-{{pub.author}}<br />
-**{{pub.title}}**<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-
-{% endfor %}
-
------
-
-## Invited talks
+## Conférences
 
 {% for talk in site.data.cv.talks %}
-- {{talk.date}}: {{talk.venue}} [[url]({{talk.url}})]{% if talk.slides %}
-[[slides]({{talk.slides}})]{% endif %}
+- {{talk.date}}: {{talk.title}}. *{{talk.venue}}*.
 
 {% endfor %}
 
 
 -----
 
-## Doctoral thesis
+## Thèses
 
-**Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
-*Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
-[INRIA](http://www.inria.fr/sophia), 2014
+**Charlotte Perkins Gilman et Olive Schreiner : dynamique des genres dans le féminisme littéraire et militant du tournant du vingtième siècle** <br />
+[Université de Paris](https://u-paris.fr/), 2018 <br />
+*Adviser: [Cécile Roudeau](https://larca.u-paris.fr/en/membre/roudeau-cecile-2/)*
 
-------
-
-## Media coverage
-
-{% for pub in site.data.cv.publications %}
-{% if pub.media %}
-- {{pub.title}} ({{pub.note}}, {{pub.year}}){% for article in pub.media %}
-    - [{{article.url}}]({{article.url}}){% endfor %}
-{% endif %}
-
-{% endfor %}
-
-------
-
-## Professional service
-
-- Grant proposals{% for review in site.data.cv.reviews.grants %}
-    - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
-
-- Conference reviews{% for review in site.data.cv.reviews.conference %}
-    - {{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
-
-- Journal reviews{% for review in site.data.cv.reviews.journal %}
-    - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
+**« Will you accuse a lady to her face of smelling bad? » : women and the burden of the past in william Faulkner’s short stories** <br />
+[Université de Paris](https://u-paris.fr/), 2016 <br />
+*Adviser: [Cécile Roudeau](https://larca.u-paris.fr/en/membre/roudeau-cecile-2/)*
