@@ -6,4 +6,4 @@ permalink: /cv/
 
 Download [PDF version](/files/senat-cv.pdf).
 
-{% include embedpdf.html source="https://github.com/rthacku1/rthacku1.github.io/tree/main/files/senat-cv.pdf" width=100 height=900 %}
+{% include embedpdf.html source="https://github.com/rthacku1/rthacku1.github.io/tree/main/files/senat-cv.pdf?raw=true" width=100 height=900 %}
