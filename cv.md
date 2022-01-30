@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Download [PDF version](/files/senat-cv.pdf).
+Download [PDF version](https://cloud.thackur.org/index.php/s/4rPyoY3KKA8FgZg).
 
-{% pdf "https://github.com/rthacku1/rthacku1.github.io/blob/main/files/senat-cv.pdf" no_link %}
+{% pdf "https://cloud.thackur.org/index.php/s/4rPyoY3KKA8FgZg" no_link %}
